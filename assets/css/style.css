@@ -749,7 +749,7 @@ main {
 }
 
 .clients-item img {
-  width: 100%;
+  width: 40%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
@@ -1803,7 +1803,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   main {
-    max-width: 1200px;
+    max-width: 1400px;
     margin-inline: auto;
     display: flex;
     justify-content: center;
